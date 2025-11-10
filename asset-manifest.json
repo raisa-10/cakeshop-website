@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/cakeshop-website/static/js/main.99a022a1.js",
+    "static/media/cake3.jpg": "/cakeshop-website/static/media/cake3.fceb2ec270e4ba136d53.jpg",
+    "static/media/cake9.jpg": "/cakeshop-website/static/media/cake9.6e3683ebd83fcbfa9d05.jpg",
+    "static/media/cake7.jpg": "/cakeshop-website/static/media/cake7.2d1855915a1fcc92b0fc.jpg",
+    "static/media/cake5.jpg": "/cakeshop-website/static/media/cake5.82fbee697ed786c965a5.jpg",
+    "static/media/cake1.jpg": "/cakeshop-website/static/media/cake1.21794822a57905671dc7.jpg",
+    "static/media/cake10.jpg": "/cakeshop-website/static/media/cake10.43863d8bd8f5a0293212.jpg",
+    "static/media/cake2.jpg": "/cakeshop-website/static/media/cake2.a6a8d7c858dc6b69a25b.jpg",
+    "static/media/cake6.jpg": "/cakeshop-website/static/media/cake6.63b0692fb1b9f2a3ba84.jpg",
+    "static/media/cake8.jpg": "/cakeshop-website/static/media/cake8.b0388a223af9a094f09f.jpg",
+    "static/media/cake4.jpg": "/cakeshop-website/static/media/cake4.32d4e1ff42767712604a.jpg",
+    "index.html": "/cakeshop-website/index.html",
+    "main.99a022a1.js.map": "/cakeshop-website/static/js/main.99a022a1.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.99a022a1.js"
+  ]
+}
